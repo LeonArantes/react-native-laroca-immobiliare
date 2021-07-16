@@ -66,7 +66,9 @@ ___
 
 <br>
 
-[![Laroca Immobiliare](assets/laroca-thumb-02.png)](https://vimeo.com/575572117)
+<a href="https://vimeo.com/575569388" target="_blank">
+  <img src="./assets/laroca-thumb-02.png" />
+</a>
 
 - Tela de edição do processo
 - Posse (Adicionar Testemunhas)
