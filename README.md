@@ -44,11 +44,13 @@ O App está disponível para as plataformas [Android](https://play.google.com/st
 <br>
 <br>
 
-## Demonstrações
+# Demonstrações
+
+<!-- > Link:  <https://vimeo.com/575569388> -->
+## Cadastro e listagem de processos
 
 <br>
 
-<!-- > Link:  <https://vimeo.com/575569388> -->
 [![Laroca Immobiliare](assets/laroca-thumb-01.png)](https://vimeo.com/575569388)
 
 - Telas de Listagem de processos
@@ -59,6 +61,11 @@ O App está disponível para as plataformas [Android](https://play.google.com/st
 <br>
 
 ___
+
+## Telas em geral
+
+<br>
+
 [![Laroca Immobiliare](assets/laroca-thumb-02.png)](https://vimeo.com/575572117)
 
 - Tela de edição do processo
@@ -71,6 +78,11 @@ ___
 <br>
 
 ___
+
+## Envio de Mensagens em Real Time
+
+<br>
+
 [![Laroca Immobiliare](assets/laroca-thumb-03.png)](https://vimeo.com/575943069)
 
 - Listagem dos Chats
@@ -84,6 +96,11 @@ Libs utilizadas
 <br>
 
 ___
+
+## Envio de Arquivos e Imagens em Real Time
+
+<br>
+
 [![Laroca Immobiliare](assets/laroca-thumb-04.png)](https://vimeo.com/575952361)
 
 - Envio de Arquivos (pdf, docx, excel,...etc)
@@ -100,6 +117,11 @@ ___
 <br>
 
 ___
+
+## Configurações do usuário
+
+<br>
+
 [![Laroca Immobiliare](assets/laroca-thumb-05.png)](https://vimeo.com/575952361)
 
 - Visualização dos dados do usuário
